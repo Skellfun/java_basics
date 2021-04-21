@@ -1,8 +1,8 @@
 public class Arithmetic {
 
-    int x;
-    int y;
-    double value;
+    private int x;
+    private int y;
+    private double value;
 
     public Arithmetic(int x, int y) {
         this.x = x;
