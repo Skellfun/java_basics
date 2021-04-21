@@ -21,7 +21,7 @@ public class Main {
 
         Printer printer = new Printer();
         printer.append("new text", "text text text text text text ");
-        printer.append("name", "text text",2);
+        printer.append("name", "text text", 2);
         printer.print();
         printer.print();
     }
